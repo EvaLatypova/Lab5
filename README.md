@@ -4,7 +4,7 @@ working with docker
 
 ### 1. Проверка версии Docker
 
-![docker version](screenshots/01-docker-version.png)
+![docker version](screenshots/Снимок экрана 2026-04-17 191455.png)
 
 ---
 
