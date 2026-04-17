@@ -33,7 +33,7 @@ working with docker
 
 ---
 
-### 6. Список запущенных контейнеров (до запуска)
+### 6. Список запущенных контейнеров
 
 ![docker ps before](screenshots/docker_6.png)
 
