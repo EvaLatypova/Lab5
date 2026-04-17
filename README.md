@@ -21,13 +21,13 @@ working with docker
 
 ---
 
-### 4. Просмотр локальных образов (до скачивания)
+### 4. Просмотр локальных образов 
 
 ![docker images before](screenshots/docker_4.png)
 
 ---
 
-### 5. Список контейнеров (до запуска)
+### 5. Список контейнеров 
 
 ![docker ps before](screenshots/docker_5.png)
 
@@ -52,7 +52,7 @@ working with docker
 
 ---
 
-### 9. Список контейнеров (после скачивания)
+### 9. Список контейнеров 
 
 ![docker ps after](screenshots/docker_9.png)
 
@@ -64,7 +64,7 @@ working with docker
 
 ---
 
-### 11. Просмотр списка образов (после скачивания)
+### 11. Просмотр списка образов 
 
 ![docker images after](screenshots/docker_11.png)
 
