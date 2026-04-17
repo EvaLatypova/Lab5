@@ -25,10 +25,15 @@ working with docker
 
 ![docker images before](screenshots/04-docker-images.png)
 
+---
+
+### 5. Список контейнеров (до запуска)
+
+![docker ps before](screenshots/05-docker-ps-a.png)
 
 ---
 
-### 5-6. Просмотр контейнеров (до запуска)
+### 6. Список запущенных контейнеров (до запуска)
 
 ![docker ps before](screenshots/05-docker-ps-a.png)
 
@@ -47,8 +52,15 @@ working with docker
 
 ---
 
-### 9-10. Просмотр контейнеров (всё ещё пусто)
+### 9. Список контейнеров (после скачивания)
 
+![docker ps after](screenshots/05-docker-ps-a.png)
+
+---
+
+### 10. Список запущенных контейнеров
+
+![docker ps after](screenshots/05-docker-ps-a.png)
 
 ---
 
@@ -71,13 +83,18 @@ working with docker
 ---
 
 ### 14. Запуск контейнера cont-no2 в интерактивном режиме
+
 ![run cont-no2](screenshots/14-run-cont-no2-interactive.png)
 
 ---
 
 ### 15. Список всех контейнеров
 
+![docker a all](screenshots/14-run-cont-no2-interactive.png)
+
 ---
 
 ### 16. Список всех запущенных контейнеров
+
+![ps running](screenshots/14-run-cont-no2-interactive.png)
 
