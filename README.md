@@ -10,91 +10,91 @@ working with docker
 
 ### 2. Авторизация в Docker Hub
 
-![docker login](screenshots/02-docker-login.png)
+![docker login](screenshots/docker_2.png)
 
 ---
 
 ### 3. Поиск образов Debian
 
-![docker search](screenshots/03-docker-search.png)
+![docker search](screenshots/docker_3.png)
 
 
 ---
 
 ### 4. Просмотр локальных образов (до скачивания)
 
-![docker images before](screenshots/04-docker-images.png)
+![docker images before](screenshots/docker_4.png)
 
 ---
 
 ### 5. Список контейнеров (до запуска)
 
-![docker ps before](screenshots/05-docker-ps-a.png)
+![docker ps before](screenshots/docker_5.png)
 
 ---
 
 ### 6. Список запущенных контейнеров (до запуска)
 
-![docker ps before](screenshots/05-docker-ps-a.png)
+![docker ps before](screenshots/docker_6.png)
 
 ---
 
 ### 7. Скачивание образа Debian:trixie
 
-![pull trixie](screenshots/07-pull-trixie.png)
+![pull trixie](screenshots/docker_7.png)
 
 ---
 
 ### 8. Скачивание образа Debian:latest
 
 
-![pull latest](screenshots/08-pull-latest.png)
+![pull latest](screenshots/docker_8.png)
 
 ---
 
 ### 9. Список контейнеров (после скачивания)
 
-![docker ps after](screenshots/05-docker-ps-a.png)
+![docker ps after](screenshots/docker_9.png)
 
 ---
 
 ### 10. Список запущенных контейнеров
 
-![docker ps after](screenshots/05-docker-ps-a.png)
+![docker ps after](screenshots/docker_10.png)
 
 ---
 
 ### 11. Просмотр списка образов (после скачивания)
 
-![docker images after](screenshots/11-images-after-pull.png)
+![docker images after](screenshots/docker_11.png)
 
 ---
 
 ### 12. Запуск контейнера по имени образа
 
-![run debian](screenshots/12-run-debian.png)
+![run debian](screenshots/docker_12.png)
 
 ---
 
 ### 13. Запуск контейнера с именем cont-no1 по ID образа
 
-![run cont-no1](screenshots/13-run-cont-no1.png)
+![run cont-no1](screenshots/docker_13.png)
 
 ---
 
 ### 14. Запуск контейнера cont-no2 в интерактивном режиме
 
-![run cont-no2](screenshots/14-run-cont-no2-interactive.png)
+![run cont-no2](screenshots/docker_14.png)
 
 ---
 
 ### 15. Список всех контейнеров
 
-![docker a all](screenshots/14-run-cont-no2-interactive.png)
+![docker a all](screenshots/docker_15.png)
 
 ---
 
 ### 16. Список всех запущенных контейнеров
 
-![ps running](screenshots/14-run-cont-no2-interactive.png)
+![ps running](screenshots/docker_16.png)
 
